@@ -1,0 +1,18 @@
+@media (max-width: 767px) {
+  .tarjetas {
+    width: 100%;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  .empanadas {
+    width: 102%;
+    margin-left: 0;
+  }
+}
+
+.bordertable {
+  border: 2px solid black;
+}
