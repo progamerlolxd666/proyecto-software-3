@@ -1,0 +1,38 @@
+.colordegradado {
+  background: rgb(255, 119, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 119, 0, 1) 33%,
+    rgba(255, 193, 7, 1) 100%
+  );
+}
+
+img {
+  width: 120px;
+}
+
+.colorfondo {
+  background-color: #ff7700;
+}
+
+th {
+  background: rgb(255, 119, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 119, 0, 1) 33%,
+    rgba(255, 193, 7, 1) 100%
+  );
+}
+
+.tarjetas {
+  background: rgb(255, 126, 56);
+  background: linear-gradient(
+    197deg,
+    rgba(255, 126, 56, 1) 0%,
+    rgba(255, 72, 0, 1) 20%,
+    rgba(255, 154, 0, 1) 56%,
+    rgba(255, 240, 7, 1) 92%
+  );
+  color: black;
+  border: 1px solid black;
+}
